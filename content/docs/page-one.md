@@ -71,14 +71,15 @@ preliminary iframe thingy, TODO fix afterwards
     <span class="jsavcounter">1 / 24</span>
     <span class="new"><a class="jsavsettings" href="#">Settings</a><button aria-label="Sound"
             class="jsavsound soundOff"></button></span>
-    <div class="jsavcontrols"><span class="jsavbegin" title="Begin">&lt;&lt;</span><span class="jsavbackward"
+    <!-- <div class="jsavcontrols"><span class="jsavbegin" title="Begin">&lt;&lt;</span><span class="jsavbackward"
             title="Backward">&lt;</span><span class="jsavforward" title="Forward">&gt;</span><span class="jsavend"
-            title="End">&gt;&gt;</span></div>
+            title="End">&gt;&gt;</span></div> -->
+    <div class="jsavcontrols"></div>
     <p class="jsavoutput jsavline">
-    <div style="color:black;">When we start the partition function, we know that the pivot is in position 4 (the middle
+    <!-- <div style="color:black;">When we start the partition function, we know that the pivot is in position 4 (the middle
         value).</div>
-    </p>
-    <div class="jsavcanvas" style="min-height: 90px; min-width: 850px;">
+    </p> -->
+    <!-- <div class="jsavcanvas" style="min-height: 90px; min-width: 850px;">
         <ol class="jsavautoresize jsavcenter jsavindexed jsavarray jsavhorizontalarray" data-visible="true"
             data-autoresize="true" data-center="true" data-layout="array" data-indexed="true"
             data-template="<span class=&quot;jsavvalue&quot;><span class=&quot;jsavvaluelabel&quot;>{{value}}</span></span><span class=&quot;jsavindexlabel&quot;>{{index}}</span>"
@@ -104,16 +105,5 @@ preliminary iframe thingy, TODO fix afterwards
             <li class="jsavnode jsavindex" style=""><span class="jsavvalue"><span
                         class="jsavvaluelabel">48</span></span><span class="jsavindexlabel">9</span></li>
         </ol>
-    </div>
-    <div class="prof_indicators">
-        <img id="quicksortCON_check_mark" class="prof_check_mark" src="_static/Images/green_check.png" alt="Proficient">
-        <span id="quicksortCON_cm_saving_msg" class="cm_saving_msg">Saving...</span>
-        <span id="quicksortCON_cm_error_msg" class="cm_error_msg">
-            <img id="quicksortCON_cm_warning_icon" class="cm_warning_icon" src="_static/Images/warning.png"
-                alt="Error Saving"><br>
-            Server Error<br>
-            <a href="#" class="resubmit_link">Resubmit</a>
-        </span>
-    </div>
-    <div class="jsavshutter"></div>
+    </div> -->
 </div>
