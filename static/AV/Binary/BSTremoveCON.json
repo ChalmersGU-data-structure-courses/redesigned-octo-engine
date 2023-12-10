@@ -1,0 +1,37 @@
+{
+  "translations": {
+    "en": {
+      "av_c1": "",
+      "av_c2": "",
+      "av_c3": "",
+      "av_c4": "",
+      "av_c5": "",
+      "av_c6": ""
+    }
+  },
+  "code": {
+    "java_generic": [{
+      "url": "../../../SourceCode/Java_Generic/ChalmersGU/API/BSTMap.java",
+      "lineNumbers": false,
+      "startAfter": "/* *** ODSATag: removeHelper *** */",
+      "endBefore": "/* *** ODSAendTag: removeHelper *** */",
+      "tags": {
+        "sig": 1,
+        "checknull": 2,
+        "checkless": 5,
+        "visitleft": 6,
+        "checkgreater": 8,
+        "visitright": 9,
+        "found": 11,
+        "checkleft": 12,
+        "checkright": 15,
+        "twochildren": 18,
+        "getmax": 19,
+        "setelement": 22,
+        "setleft": 23,
+        "return": 24,
+        "end": 27
+      }
+    }]
+  }
+}
